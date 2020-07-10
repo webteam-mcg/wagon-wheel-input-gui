@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace wagon_wheel_input_gui
 {
-    public partial class Form1 : Form
+    public partial class MainUi : Form
     {
-        public Form1()
+        public MainUi()
         {
             InitializeComponent();
         }

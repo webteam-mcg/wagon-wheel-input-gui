@@ -1,0 +1,9 @@
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\bin\Debug\wagon-wheel-input-gui.exe.config
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\bin\Debug\wagon-wheel-input-gui.exe
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\bin\Debug\wagon-wheel-input-gui.pdb
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon-wheel-input-gui.csprojResolveAssemblyReference.cache
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon_wheel_input_gui.Properties.Resources.resources
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon-wheel-input-gui.csproj.GenerateResource.Cache
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon-wheel-input-gui.exe
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon-wheel-input-gui.pdb
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon_wheel_input_gui.MainUi.resources
