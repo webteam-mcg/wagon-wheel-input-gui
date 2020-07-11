@@ -92,5 +92,11 @@
   <ItemGroup>
     <None Include="IMG\Ground.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="IMG\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMG\minimize.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
