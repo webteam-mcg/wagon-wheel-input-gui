@@ -26,5 +26,11 @@ namespace wagon_wheel_input_gui
         {
             this.WindowState = FormWindowState.Minimized;
         }
+        public void Control1_MouseClick(Object sender, MouseEventArgs e)
+        {
+            Program.X = Convert.ToInt32(e.X*1.5);
+            Program.Y = Convert.ToInt32(e.Y*1.5);
+            MessageBox.Show("X = "+Program.X+"\n"+"y = "+Program.Y);
+        }
     }
 }

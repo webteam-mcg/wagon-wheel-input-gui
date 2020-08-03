@@ -6,8 +6,11 @@ using System.Windows.Forms;
 
 namespace wagon_wheel_input_gui
 {
-    static class Program
+    public class Program
     {
+        public static int X, Y;
+
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

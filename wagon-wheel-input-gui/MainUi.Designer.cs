@@ -73,6 +73,7 @@
             this.Name = "MainUi";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainUi";
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Control1_MouseClick);
             this.ResumeLayout(false);
 
         }

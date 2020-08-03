@@ -63,6 +63,9 @@
     <EmbeddedResource Include="MainUi.resx">
       <DependentUpon>MainUi.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PopupUi.resx">
+      <DependentUpon>PopupUi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
