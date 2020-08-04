@@ -17,6 +17,7 @@ namespace wagon_wheel_input_gui
         [STAThread]
         static void Main()
         {
+            RequestHandler.playerList();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainUi());
