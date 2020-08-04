@@ -17,7 +17,9 @@ namespace wagon_wheel_input_gui
         [STAThread]
         static void Main()
         {
+            /*
             RequestHandler.playerList();
+            RequestHandler.addShotAsync("888","MCG",76,6,1920,1080);*/
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainUi());

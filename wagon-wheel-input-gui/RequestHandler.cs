@@ -39,21 +39,13 @@ namespace wagon_wheel_input_gui
 
             var content = new FormUrlEncodedContent(values);
 
-            var response = await client.PostAsync("http://ec2-18-220-157-143.us-east-2.compute.amazonaws.com:4000/api/v1/score", content);
+            var response = await client.PostAsync("https://reqres.in/api/users", content);
 
             var responseString = await response.Content.ReadAsStringAsync();
 
         }
         public static void playerList()
         {
-            /*OkHttpClient client = new OkHttpClient().newBuilder()
-                    .build();
-        Request request = new Request.Builder()
-                .url("http://ec2-18-220-157-143.us-east-2.compute.amazonaws.com:4000/api/v1/player/" + playerTeam)
-                .method("GET", null)
-                .build();
-        Response response = client.newCall(request).execute();
-            return response.body();*/
 
             WebRequest request = WebRequest.Create("https://reqres.in/api/users?page=2");
 
