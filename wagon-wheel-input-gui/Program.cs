@@ -24,9 +24,15 @@ namespace wagon_wheel_input_gui
         static void Main()
         {
             new Program();
-           
-            RequestHandler.playerList();
-            RequestHandler.addShotAsync("888","MCG",76,6,1920,1080);
+            try
+            {
+                RequestHandler.playerList();
+                RequestHandler.addShotAsync("888", "MCG", 76, 6, 1920, 1080);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainUi());
