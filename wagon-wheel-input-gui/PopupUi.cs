@@ -16,5 +16,25 @@ namespace wagon_wheel_input_gui
         {
             InitializeComponent();
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            Program.Sess = "MCG1";
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            Program.Sess = "RCG1";
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            Program.Sess = "MCG2";
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            Program.Sess = "RCG2";
+        }
     }
 }

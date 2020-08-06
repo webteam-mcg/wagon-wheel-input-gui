@@ -10,12 +10,17 @@ namespace wagon_wheel_input_gui
     public class Program
     {
         public static int X, Y;
+        public static String Sess;
         public static ArrayList PlayerList1,PlayerList2;
 
         public Program()
         {
             PlayerList1 = new ArrayList();
             PlayerList1 = new ArrayList();
+            /*PlayerList1.Add("Player 1");
+            PlayerList1.Add("Player 2");
+            PlayerList2.Add("Player 1");
+            PlayerList2.Add("Player 2");*/
         }
         /// <summary>
         /// The main entry point for the application.
