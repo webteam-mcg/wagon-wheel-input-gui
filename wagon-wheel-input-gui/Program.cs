@@ -32,7 +32,7 @@ namespace wagon_wheel_input_gui
             try
             {
                 RequestHandler.playerList();
-                RequestHandler.addShotAsync("888", "MCG", 76, 6, 1920, 1080);
+                RequestHandler.addShotAsync("888", "mcg", 76, 6, 1920, 1080);
             }
             catch(Exception ex)
             {
