@@ -8,3 +8,5 @@ C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon
 C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon-wheel-input-gui.pdb
 C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon_wheel_input_gui.MainUi.resources
 C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\obj\Debug\wagon_wheel_input_gui.PopupUi.resources
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahas\documents\visual studio 2017\Projects\wagon-wheel-input-gui\wagon-wheel-input-gui\bin\Debug\Newtonsoft.Json.xml

@@ -16,7 +16,7 @@ namespace wagon_wheel_input_gui
         public Program()
         {
             PlayerList1 = new ArrayList();
-            PlayerList1 = new ArrayList();
+            PlayerList2 = new ArrayList();
             /*PlayerList1.Add("Player 1");
             PlayerList1.Add("Player 2");
             PlayerList2.Add("Player 1");

@@ -15,6 +15,10 @@ namespace wagon_wheel_input_gui
         public PopupUi()
         {
             InitializeComponent();
+            comboBox1.Enabled = false;
+            comboBox2.Enabled = false;
+            //radioButton5.Enabled = false;
+
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
